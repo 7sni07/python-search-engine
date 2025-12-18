@@ -10,7 +10,6 @@ Avant de commencer, assurez-vous d'avoir installé :
 ## Installation
 
 Il est recommandé d'utiliser un environnement virtuel pour éviter les conflits de bibliothèques.  
-installer les bibliotheque nécessaire :
 
 ### 1. Cloner le projet
 ```bash
