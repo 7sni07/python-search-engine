@@ -9,7 +9,7 @@ Avant de commencer, assurez-vous d'avoir installé :
 
 ## Installation
 
-Il est recommandé d'utiliser un environnement virtuel pour éviter les conflits de bibliothèques.
+Il est recommandé d'utiliser un environnement virtuel pour éviter les conflits de bibliothèques.  
 installer les bibliotheque nécessaire :
 
 ### 1. Cloner le projet
@@ -23,5 +23,5 @@ pip install -r requirements.txt
 ```
 
 ### 2. Execution
-Pour les version 1 et 2, le fichier a executer est Projet.py
+Pour les version 1 et 2, le fichier a executer est Projet.py.  
 Pour la version finale, L'application complète et l'exploration des fonctionnalités se trouvent dans le notebook : Explore_Search_Engine.ipynb
